@@ -1,0 +1,28 @@
+name: RevolutionPM
+favicon: null
+layout_spectrum: 0.4363337974064052
+typography_spectrum: 0.05213789292611182
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9161884284112602
+  lightness: 0.8023328231647611
+  saturation: 0.12469852645881474
+  rhythmicContrast: 0.46841696836054325
+purpose: []
